@@ -1,17 +1,12 @@
-# food_delivary
+# your delivery (meals delivery)
 
-A new Flutter project.
+This app cover there topic :
+- Using (mysql & laravel) as backed for store meals , users data.(there found only front end ).
+- Restful api operations, getx and https.
+- Authentication.
+- State management: getx.
+- Sqflite for store user orders.
+- Routing with getx.
+- Dependency injection using getx.
+- This app complete (80%), remain adding google map.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Your_delivery" 
