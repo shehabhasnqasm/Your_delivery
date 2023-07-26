@@ -5,6 +5,7 @@ This app cover there topic :
 - Restful api operations, getx and https.
 - Authentication.
 - State management: getx.
+- Pattern: mvc.
 - Sqflite for store user orders.
 - Routing with getx.
 - Dependency injection using getx.
